@@ -1,0 +1,20 @@
+{
+  "name": "TurboSnake",
+  "description": "TurboSnake is a fast take on the classic game snake.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "128": "icon128.png" },
+  "permissions": [
+    "storage",
+    "webview",
+    "audioCapture",
+    "videoCapture",
+    "fullscreen"
+   ]
+}
+  

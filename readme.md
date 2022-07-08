@@ -1,5 +1,7 @@
 # This is a addictive chrome extension built with Javascript and HTML .
+
 ![[snakeextension.jpg]]
+
 ## Install instructions:
   **Manual install:**
   1. Unzip the content folder

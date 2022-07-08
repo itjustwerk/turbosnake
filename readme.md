@@ -5,7 +5,7 @@
 ## Install instructions:
   **Manual install:**
   1. Unzip the content folder
-  2. Go to chrome:extensions in your browser.
+  2. Go to chrome://extensions in your browser.
   3. Enable Developer mode.
   4. Click Load Unpacked and choose your folder.
 

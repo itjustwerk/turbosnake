@@ -7,5 +7,6 @@
   4. Click Load Unpacked and choose your folder.
 <br>
 **Chrome Web Store install:**
+
   https://chrome.google.com/webstore/detail/turbosnake/mgeaaaipkkglljdnjlmiidibkaaejlgb
 

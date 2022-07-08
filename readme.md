@@ -1,6 +1,6 @@
 # This is a addictive chrome extension built with Javascript and HTML .
 
-![Screenshot](snakeextension.jpg)
+![Screenshot](snakeextension.jpg | width=100)
 
 ## Install instructions:
   **Manual install:**

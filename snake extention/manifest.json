@@ -1,0 +1,12 @@
+  {
+  	"manifest_version": 3,
+    "name": "TurboSnake",
+    "version": "1.0",
+    "description": "TurboSnake is a fun twist on the classic game Snake.",
+
+    "action":
+      { "default_icon": "icon.png",
+      "default_popup": "index.html"},
+      "icons": { "16": "icon16.png",
+          "128": "icon.png" }	
+  }

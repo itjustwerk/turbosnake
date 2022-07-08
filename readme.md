@@ -1,4 +1,4 @@
-# This is a addictive chrome extension built with Javascript and HTML .
+# This is a addictive Snake game packed in a chrome extension
 
 <img src="snakeextension.jpg" height='430'>
 

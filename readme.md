@@ -6,7 +6,7 @@
   3. Enable Developer mode.
   4. Click Load Unpacked and choose your folder.
 <br>
-**Chrome Web Store install:**
+<b>Chrome Web Store install:</b>
 
   https://chrome.google.com/webstore/detail/turbosnake/mgeaaaipkkglljdnjlmiidibkaaejlgb
 

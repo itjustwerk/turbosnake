@@ -1,4 +1,4 @@
-# This is a addictive Snake game packed in a chrome extension
+# Turbosnake Extension
 
 <img src="snakeextension.jpg" height='430'>
 

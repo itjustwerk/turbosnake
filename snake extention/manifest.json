@@ -1,7 +1,7 @@
   {
   	"manifest_version": 3,
     "name": "TurboSnake",
-    "version": "1.0",
+    "version": "1.1",
     "description": "TurboSnake is a fun twist on the classic game Snake.",
 
     "action":
